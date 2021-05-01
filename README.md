@@ -7,6 +7,6 @@ Start time: ____1am_
 
 Finish time: ___3am__
 
-Actual time needed to complete: _____2 hours
+Actual time needed to complete: _____2.5 hours
 
 [The live link](https://affectionate-euclid-def69a.netlify.app/)
