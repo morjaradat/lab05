@@ -9,4 +9,4 @@ Finish time: ___3am__
 
 Actual time needed to complete: _____2 hours
 
-[The live link]{https://affectionate-euclid-def69a.netlify.app}
+[The live link]{https://affectionate-euclid-def69a.netlify.app/}
